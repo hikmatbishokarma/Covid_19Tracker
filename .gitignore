@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-
+/path to npmrc folder
 # production
 /build
 
